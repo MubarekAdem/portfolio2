@@ -3,7 +3,9 @@
 	import Awards from '../sections/awards.svelte';
 	import Creativity from '../sections/creativity.svelte';
 	import Events from '../sections/events.svelte';
+	import Education from '../sections/education.svelte';
 	import Experience from '../sections/experience.svelte';
+
 	import Projects from '../sections/projects.svelte';
 	import Remarks from '../sections/remarks.svelte';
 </script>
@@ -12,8 +14,9 @@
 	<About />
 	<Creativity />
 	<Events />
-	<Projects />
+	<Education />
 	<Experience />
+	<Projects />
 	<Awards />
 	<Remarks />
 </div>

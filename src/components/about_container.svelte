@@ -25,10 +25,10 @@
 		>
 			<!-- TITLE -->
 			<div class=" flex items-center gap-x-2 md:flex lg:hidden xl:hidden 2xl:hidden">
-				<img src={logo} alt="logo" class="w-12" />
+				<!-- <img src={logo} alt="logo" class="w-12" /> -->
 				<div class="flex flex-col justify-center">
-					<div class="text-xl font-semibold">Dagmawi Babi</div>
-					<span class="-mt-1">Believer | Creative Developer</span>
+					<div class="text-xl font-semibold">Mubarek Adem</div>
+					<span class="-mt-1">Website Developer</span>
 				</div>
 			</div>
 
@@ -46,27 +46,27 @@
 			<div class="flex w-full flex-col justify-center gap-y-4">
 				<!-- TITLE -->
 				<div class="hidden items-center gap-x-2 md:hidden lg:flex xl:flex 2xl:flex">
-					<img src={logo} alt="logo" class="w-12" />
+					<!-- <img src={logo} alt="logo" class="w-12" /> -->
 					<div class="flex flex-col justify-center">
-						<div class="text-xl font-semibold">Dagmawi Babi</div>
-						<span class="-mt-1">Believer | Creative Developer</span>
+						<div class="text-xl font-semibold">Mubarek Adem</div>
+						<span class="-mt-1">Website Developer</span>
 					</div>
 				</div>
 
 				<!-- DESCRIPTION -->
 				<div class="flex flex-col gap-y-2">
 					<p class="text-sm">
-						Hello! My name is Dagmawi and I enjoy creating tech solutions to my daily problems. My
-						interest in software development started back in 2013 when I accidentally stumbled upon
-						a batch programming ebook in one of my harddrives — turns out there's so much you could
-						do on a black & white terminal!
+						Hello! My name is Mubarek and I’m a Full Stack Developer focused on building dynamic,
+						scalable web applications. I create seamless end-to-end solutions, from responsive
+						front-end interfaces to robust back-end systems, using modern frameworks and APIs to
+						deliver fast, secure, and scalable results.
 					</p>
-					<p class="text-sm">
+					<!-- <p class="text-sm">
 						Fast-forward to today, and I've had the privilege of working at multiple start ups, an
 						event organizing company , a huge corporation , and a student-led design club . My main
 						focus these days is building accessible, inclusive products and digital experiences at
 						Dream Intelligence for a variety of clients.
-					</p>
+					</p> -->
 				</div>
 
 				<!-- CTA -->
@@ -74,14 +74,14 @@
 					<div
 						class="flex items-center justify-center gap-x-3 rounded-full border-zinc-300 py-1 text-sm transition-all hover:border-black"
 					>
-						<a href="https://www.t.me/dagmawi_babi" target="_blank" rel="noopener noreferrer">
+						<a href="https://www.t.me/MubarekA" target="_blank" rel="noopener noreferrer">
 							<Send
 								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-cyan-500"
 								size={20}
 							/>
 						</a>
 						<a
-							href="https://www.linkedin.com/in/dagmawibabi"
+							href="https://www.linkedin.com/in/Mubarek-adem"
 							target="_blank"
 							rel="noopener noreferrer"
 						>
@@ -91,7 +91,7 @@
 							/>
 						</a>
 						<a
-							href="https://www.instagram.com/dagmawibabi"
+							href="https://www.instagram.com/m.u.b.a.r.e.k_a"
 							target="_blank"
 							rel="noopener noreferrer"
 						>
@@ -100,25 +100,25 @@
 								size={20}
 							/>
 						</a>
-						<a href="https://www.x.com/dagmawibabi" target="_blank" rel="noopener noreferrer">
+						<a href="https://www.x.com/beatus_ad" target="_blank" rel="noopener noreferrer">
 							<Twitter
 								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-blue-500"
 								size={20}
 							/>
 						</a>
-						<a href="https://www.github.com/dagmawibabi" target="_blank" rel="noopener noreferrer">
+						<a href="https://www.github.com/mubarekadem" target="_blank" rel="noopener noreferrer">
 							<Github
 								class="hover:text-black-500 cursor-pointer  text-sm text-zinc-700 hover:scale-125"
 								size={20}
 							/>
 						</a>
-						<a href="mailto:1babidagi@gmail.com" target="_blank" rel="noopener noreferrer">
+						<a href="mailto:mubarekadem001@gmail.com" target="_blank" rel="noopener noreferrer">
 							<Mail
 								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-green-500"
 								size={20}
 							/>
 						</a>
-						<div class="group/phone cursor-pointer">
+						<!-- <div class="group/phone cursor-pointer">
 							<Phone
 								class="text-sm text-zinc-700 hover:scale-125 group-hover/phone:hidden"
 								size={20}
@@ -128,7 +128,7 @@
 							>
 								LOL
 							</span>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>

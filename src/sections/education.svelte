@@ -6,49 +6,49 @@
 	import stem from '$lib/assets/experience/stemlogo.png';
 	import cisco from '$lib/assets/experience/ciscologo.png';
 	import bdu from '$lib/assets/experience/bdulogo.png';
-	import ibex from '$lib/assets/experience/ibexlogo.png';
+	import alx from '$lib/assets/experience/alxlogo.png';
 
 	let experiences = [
 		{
-			company: 'Fullstack Website Developer Intern',
-			logo: ibex,
-			role: 'Fullstack Web Developer',
+			company: 'Bahir Dar University',
+			logo: bdu,
+			role: '',
 			date: '2021 - 2025',
-			responsibilities: ['build fullstack E-commerce web app'],
+			responsibilities: [''],
 			description: [
 				"A Bachelor's student in Information Systems at Bahir Dar University, specializing in developing and designing systems to meet business requirements."
 			]
+		},
+		{
+			company: 'Bahir dar STEM Center',
+			logo: stem,
+			role: '',
+			date: '2018 - 2021',
+			responsibilities: [''],
+			description: [
+				'I completed high school at the Bahir Dar STEM Incubation Center, where I developed a strong passion for technology and innovation.'
+			]
+		},
+		{
+			company: 'Cisco CCNA , Addis Ababa University',
+			logo: cisco,
+			role: '',
+			date: '2023 December — 2024 March',
+			responsibilities: [''],
+			description: [
+				'A CISCO CCNA-certified professional with expertise in networking, focused on designing, configuring, and managing network systems to support business operations.'
+			]
+		},
+		{
+			company: 'ALX AiCE - Career Essentials',
+			logo: alx,
+			role: '',
+			date: '2024 May — 2024 July',
+			responsibilities: [''],
+			description: [
+				'A graduate of the ALX AICE Career Essentials program, specializing in artificial intelligence, with a focus on developing skills in AI technologies, problem-solving, and professional communication for a career in AI-driven industries.'
+			]
 		}
-		// {
-		// 	company: 'Bahir dar STEM Center',
-		// 	logo: stem,
-		// 	role: '',
-		// 	date: '2018 - 2021',
-		// 	responsibilities: [''],
-		// 	description: [
-		// 		'I completed high school at the Bahir Dar STEM Incubation Center, where I developed a strong passion for technology and innovation.'
-		// 	]
-		// },
-		// {
-		// 	company: 'Cisco CCNA , Addis Ababa University',
-		// 	logo: cisco,
-		// 	role: '',
-		// 	date: '2023 December — 2024 March',
-		// 	responsibilities: [''],
-		// 	description: [
-		// 		'A CISCO CCNA-certified professional with expertise in networking, focused on designing, configuring, and managing network systems to support business operations.'
-		// 	]
-		// },
-		// {
-		// 	company: 'ALX AiCE - Career Essentials',
-		// 	logo: alx,
-		// 	role: '',
-		// 	date: '2024 May — 2024 July',
-		// 	responsibilities: [''],
-		// 	description: [
-		// 		'A graduate of the ALX AICE Career Essentials program, specializing in artificial intelligence, with a focus on developing skills in AI technologies, problem-solving, and professional communication for a career in AI-driven industries.'
-		// 	]
-		// }
 		// {
 		// 	company: 'Artificial Intelligence and Robotics Center of Excellence',
 		// 	logo: '',
@@ -80,7 +80,7 @@
 </script>
 
 <div class="pb-10">
-	<SectionTitle title={'Experience'} />
+	<SectionTitle title={'Education'} />
 	<div class="pl-10">
 		<div class="h-7 border-l border-dashed border-zinc-900"></div>
 	</div>

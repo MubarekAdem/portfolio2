@@ -1,4 +1,4 @@
-<script lang="ts">
+<!-- <script lang="ts">
 	import * as Card from '$lib/components/ui/card/index';
 	import * as Carousel from '$lib/components/ui/carousel/index.js';
 	import SectionTitle from '../components/section_title.svelte';
@@ -61,4 +61,4 @@
 			<Carousel.Next />
 		</div>
 	</Carousel.Root>
-</div>
+</div> -->
