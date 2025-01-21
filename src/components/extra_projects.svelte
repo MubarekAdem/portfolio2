@@ -26,7 +26,7 @@
 	</div>
 </div>
 
-<a href="https://www.github.com/dagmawibabi" target="_blank" rel="noopener noreferrer">
+<a href="https://www.github.com/mubarekadem" target="_blank" rel="noopener noreferrer">
 	<div
 		class="group/moreProjects flex w-fit cursor-pointer items-center justify-center gap-x-1 rounded-full px-3 py-1 hover:bg-black hover:text-white"
 	>

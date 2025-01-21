@@ -12,11 +12,11 @@
 		{
 			company: 'Fullstack Website Developer Intern',
 			logo: ibex,
-			role: 'Fullstack Web Developer',
-			date: '2021 - 2025',
-			responsibilities: ['build fullstack E-commerce web app'],
+			role: 'Fullstack Web Developer Intern',
+			date: '2024 July — 2024 October',
+			responsibilities: [''],
 			description: [
-				"A Bachelor's student in Information Systems at Bahir Dar University, specializing in developing and designing systems to meet business requirements."
+				'A Fullstack Web Developer Intern at Ibex Technologies and Promotion, gaining hands-on experience in building and maintaining web applications, working with both front-end and back-end technologies to deliver innovative solutions.'
 			]
 		}
 		// {

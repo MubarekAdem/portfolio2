@@ -17,6 +17,6 @@
 	<Education />
 	<Experience />
 	<Projects />
-	<Awards />
+	<!-- <Awards /> -->
 	<Remarks />
 </div>
