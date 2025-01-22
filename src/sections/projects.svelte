@@ -90,7 +90,7 @@
 <div class="pb-10">
 	<!-- AI/ML PROJECTS -->
 	<div class="pb-10">
-		<SectionTitles title={'AI/ML Projects'} />
+		<SectionTitles title={'Web Projects'} />
 		{#each Projects as project}
 			<EachProject_2 {project} />
 		{/each}
