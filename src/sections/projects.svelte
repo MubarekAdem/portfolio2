@@ -51,37 +51,37 @@
 
 	let extraProjects = [
 		{
-			title: 'Ubuntu UI Clone',
-			link: 'https://ubuntu.dagmawibabi.com'
+			title: 'Des Encryption algorithm',
+			link: 'https://github.com/MubarekAdem/des-encryption-algoritm'
 		},
 		{
-			title: 'Out of Pocket',
-			link: 'https://github.com/dagmawibabi/OutOfPocket/releases/latest'
+			title: 'Inventory Management',
+			link: 'https://github.com/MubarekAdem/inventory-management'
 		},
 		{
-			title: 'Telegram to PDF',
-			link: 'https://github.com/dagmawibabi/TelegramToPDF'
-		},
-		{
-			title: 'TG Chat Analyzer',
-			link: 'https://chat-dagmawibabi.vercel.app/'
-		},
-		{
-			title: 'Lexicon',
-			link: 'https://github.com/dagmawibabi/Lexicon/releases/latest'
-		},
-		{
-			title: 'Survival Manual',
-			link: 'https://github.com/dagmawibabi/OfflineSurvivalManual/releases/latest'
-		},
-		{
-			title: 'I Am Ninja',
-			link: 'https://github.com/dagmawibabi/IAmNinja'
-		},
-		{
-			title: 'Beautiful OS',
-			link: 'https://github.com/dagmawibabi/beautifulelectronsurface'
+			title: 'Joke API',
+			link: 'https://github.com/MubarekAdem/inventory-management'
 		}
+		// {
+		// 	title: 'TG Chat Analyzer',
+		// 	link: 'https://chat-dagmawibabi.vercel.app/'
+		// },
+		// {
+		// 	title: 'Lexicon',
+		// 	link: 'https://github.com/dagmawibabi/Lexicon/releases/latest'
+		// },
+		// {
+		// 	title: 'Survival Manual',
+		// 	link: 'https://github.com/dagmawibabi/OfflineSurvivalManual/releases/latest'
+		// },
+		// {
+		// 	title: 'I Am Ninja',
+		// 	link: 'https://github.com/dagmawibabi/IAmNinja'
+		// },
+		// {
+		// 	title: 'Beautiful OS',
+		// 	link: 'https://github.com/dagmawibabi/beautifulelectronsurface'
+		// }
 	];
 
 	// Additional projects omitted for brevity...
@@ -121,6 +121,6 @@
 	<!-- GAMES?? -->
 
 	<!-- EXTRA PROJECTS -->
-	<SectionTitles title={'Projects'} />
+	<SectionTitles title={' Extra Projects'} />
 	<ExtraProjects {extraProjects} />
 </div>

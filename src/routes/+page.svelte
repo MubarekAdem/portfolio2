@@ -18,5 +18,4 @@
 	<Experience />
 	<Projects />
 	<!-- <Awards /> -->
-	<Remarks />
 </div>
