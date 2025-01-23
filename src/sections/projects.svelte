@@ -51,7 +51,7 @@
 			title: 'My-Zikr-App',
 			image: ZikrApp,
 			description:
-				'A spiritual and enriching web application designed to enhance the daily practices of Muslims. Built with Next.js, **My Zikr App** provides users with features like Quran reading, tasbeeh counters for dhikr (remembrance of Allah), curated collections of duas (supplications), and authentic hadiths. With a sleek and intuitive interface, it ensures seamless navigation and a focused user experience. The app also plans to include more features, such as daily reminders, Islamic calendar integration and more.',
+				'An Islamic and enriching web application designed to enhance the daily practices of Muslims. Built with Next.js, My Zikr App provides users with features like Quran reading, tasbeeh counters for dhikr (remembrance of Allah), curated collections of duas (supplications), and authentic hadiths. With a sleek and intuitive interface, it ensures seamless navigation and a focused user experience. The app also plans to include more features, such as daily reminders, Islamic calendar integration and more.',
 			link: 'https://my-zikr-app.vercel.app/',
 			code: 'https://github.com/MubarekAdem/my-zikr-app',
 			tools: ['NextJS', 'TailwindCSS']
