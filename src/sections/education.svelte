@@ -13,7 +13,7 @@
 			company: 'Bahir Dar University',
 			logo: bdu,
 			role: '',
-			date: '2021 - 2025',
+			date: '2021 - 2025 ( Expected )',
 			responsibilities: [''],
 			description: [
 				"A Bachelor's student in Information Systems at Bahir Dar University, specializing in developing and designing systems to meet business requirements."
