@@ -7,7 +7,7 @@
 	// Project Images
 
 	import ecommerce from '$lib/assets/projects/ecommerce.png';
-	import TheUnityProjectMural from '$lib/assets/projects/TheUnityProjectMural.png';
+	import ZikrApp from '$lib/assets/projects/zikrapp.png';
 	import RuthfulHearts from '$lib/assets/projects/RuthfulHearts.png';
 	import BreakingNews from '$lib/assets/projects/breakingnews.png';
 	import TelegramCommunityGallery from '$lib/assets/projects/TelegramCommunityGallery.jpg';
@@ -45,6 +45,15 @@
 				"A fun and creative website that allows users to generate their own breaking news headlines. Inspired by breakyourownnews.com, this tool lets users customize headlines with various categories, making it easy to create and share unique, fictional news stories. Built with a user-friendly interface, it's designed for quick and engaging content creation.",
 			link: 'https://breakingnewsgenerator.vercel.app/',
 			code: 'https://github.com/MubarekAdem/breaking-news-generator',
+			tools: ['NextJS', 'TailwindCSS']
+		},
+		{
+			title: 'My-Zikr-App',
+			image: ZikrApp,
+			description:
+				'A spiritual and enriching web application designed to enhance the daily practices of Muslims. Built with Next.js, **My Zikr App** provides users with features like Quran reading, tasbeeh counters for dhikr (remembrance of Allah), curated collections of duas (supplications), and authentic hadiths. With a sleek and intuitive interface, it ensures seamless navigation and a focused user experience. The app also plans to include more features, such as daily reminders, Islamic calendar integration and more.',
+			link: 'https://my-zikr-app.vercel.app/',
+			code: 'https://github.com/MubarekAdem/my-zikr-app',
 			tools: ['NextJS', 'TailwindCSS']
 		}
 	];
