@@ -24,8 +24,7 @@
 			class="flex flex-col gap-x-3 rounded border-zinc-300 px-2 py-2 pr-4 lg:flex-row xl:flex-row 2xl:flex-row"
 		>
 			<!-- TITLE -->
-			<div class=" flex items-center gap-x-2 md:flex lg:hidden xl:hidden 2xl:hidden">
-				<!-- <img src={logo} alt="logo" class="w-12" /> -->
+			<div class="flex items-center gap-x-2 md:flex lg:hidden xl:hidden 2xl:hidden">
 				<div class="flex flex-col justify-center">
 					<div class="text-xl font-semibold">Mubarek Adem</div>
 					<span class="-mt-1">Website Developer</span>
@@ -46,7 +45,6 @@
 			<div class="flex w-full flex-col justify-center gap-y-4">
 				<!-- TITLE -->
 				<div class="hidden items-center gap-x-2 md:hidden lg:flex xl:flex 2xl:flex">
-					<!-- <img src={logo} alt="logo" class="w-12" /> -->
 					<div class="flex flex-col justify-center">
 						<div class="text-xl font-semibold">Mubarek Adem</div>
 						<span class="-mt-1">Website Developer</span>
@@ -61,22 +59,17 @@
 						front-end interfaces to robust back-end systems, using modern frameworks and APIs to
 						deliver fast, secure, and scalable results.
 					</p>
-					<!-- <p class="text-sm">
-						Fast-forward to today, and I've had the privilege of working at multiple start ups, an
-						event organizing company , a huge corporation , and a student-led design club . My main
-						focus these days is building accessible, inclusive products and digital experiences at
-						Dream Intelligence for a variety of clients.
-					</p> -->
 				</div>
 
 				<!-- CTA -->
-				<div class="flex gap-x-2">
+				<div class="flex items-center gap-x-2">
+					<!-- Social Links -->
 					<div
 						class="flex items-center justify-center gap-x-3 rounded-full border-zinc-300 py-1 text-sm transition-all hover:border-black"
 					>
 						<a href="https://www.t.me/MubarekA" target="_blank" rel="noopener noreferrer">
 							<Send
-								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-cyan-500"
+								class="cursor-pointer text-sm text-zinc-700 hover:scale-125 hover:text-cyan-500"
 								size={20}
 							/>
 						</a>
@@ -86,7 +79,7 @@
 							rel="noopener noreferrer"
 						>
 							<Linkedin
-								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-blue-500"
+								class="cursor-pointer text-sm text-zinc-700 hover:scale-125 hover:text-blue-500"
 								size={20}
 							/>
 						</a>
@@ -96,40 +89,37 @@
 							rel="noopener noreferrer"
 						>
 							<Instagram
-								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-pink-600"
+								class="cursor-pointer text-sm text-zinc-700 hover:scale-125 hover:text-pink-600"
 								size={20}
 							/>
 						</a>
 						<a href="https://www.x.com/beatus_ad" target="_blank" rel="noopener noreferrer">
 							<Twitter
-								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-blue-500"
+								class="cursor-pointer text-sm text-zinc-700 hover:scale-125 hover:text-blue-500"
 								size={20}
 							/>
 						</a>
 						<a href="https://www.github.com/mubarekadem" target="_blank" rel="noopener noreferrer">
 							<Github
-								class="hover:text-black-500 cursor-pointer  text-sm text-zinc-700 hover:scale-125"
+								class="hover:text-black-500 cursor-pointer text-sm text-zinc-700 hover:scale-125"
 								size={20}
 							/>
 						</a>
 						<a href="mailto:mubarekadem001@gmail.com" target="_blank" rel="noopener noreferrer">
 							<Mail
-								class="cursor-pointer text-sm  text-zinc-700 hover:scale-125 hover:text-green-500"
+								class="cursor-pointer text-sm text-zinc-700 hover:scale-125 hover:text-green-500"
 								size={20}
 							/>
 						</a>
-						<!-- <div class="group/phone cursor-pointer">
-							<Phone
-								class="text-sm text-zinc-700 hover:scale-125 group-hover/phone:hidden"
-								size={20}
-							/>
-							<span
-								class="hidden text-sm font-semibold text-pink-600 hover:scale-125 group-hover/phone:block"
-							>
-								LOL
-							</span>
-						</div> -->
 					</div>
+
+					<!-- Download CV Button -->
+					<a
+						href="https://drive.google.com/file/d/1dYtqi91taWfYkmv-W54JHdYXB_sP9G8k/view?usp=drive_link"
+						class="rounded-full border border-black bg-black px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-white hover:text-black"
+					>
+						Download CV
+					</a>
 				</div>
 			</div>
 		</div>
