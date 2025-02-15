@@ -115,7 +115,7 @@
 
 					<!-- Download CV Button -->
 					<a
-						href="https://drive.google.com/file/d/1dYtqi91taWfYkmv-W54JHdYXB_sP9G8k/view?usp=drive_link"
+						href="https://drive.google.com/file/d/1pmE1GCEFX6up2gHuvDBwCBcfRmJ23hF9/view?usp=sharing"
 						class="rounded-full border border-black bg-black px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-white hover:text-black"
 					>
 						Download CV
