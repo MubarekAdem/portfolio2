@@ -52,16 +52,16 @@
 			/>
 		</div>
 
-		<div class="my-auto h-1 w-3 border-t border-transparent group-hover:border-black"></div>
+		<div
+			class="my-auto h-1 w-3 border-t border-transparent group-hover:border-black lg:block xl:block 2xl:block"
+		></div>
 
 		<!-- PROJECT DETAILS -->
 		<div class="relative flex w-full">
+			<!-- TECH STACK -->
 			<div
-				class="absolute right-4 -mt-3 hidden items-center justify-center overflow-clip rounded-full border border-black bg-white group-hover:flex"
+				class="absolute right-4 -mt-3 flex items-center justify-center overflow-clip rounded-full border border-black bg-white group-hover:flex lg:hidden xl:hidden 2xl:hidden"
 			>
-				<!-- <div class="px-3">
-					<Layers size={16} class="text-black" />
-				</div> -->
 				{#each project.tools as eachTool}
 					<div class="border-l border-dotted border-black px-2 py-1">
 						<img src={techTools[eachTool]} alt="" class="h-4 w-5 object-contain transition-all" />
@@ -86,7 +86,7 @@
 					{#if project.link != ''}
 						<a href={project.link} target="_blank" rel="noopener noreferrer">
 							<div
-								class="duration-120 flex items-center justify-center gap-x-2 border border-zinc-300 px-3 py-1 text-sm transition-all hover:border-black group-hover:rounded-full"
+								class="duration-120 flex items-center justify-center gap-x-2 rounded-full border border-zinc-300 px-3 py-1 text-sm transition-all hover:border-black"
 							>
 								<ExternalLink size={16} class="text-zinc-700 hover:text-black" />
 								<span class="text-sm text-zinc-700 hover:text-black"> View Live </span>
@@ -96,7 +96,7 @@
 					{#if project.code != ''}
 						<a href={project.code} target="_blank" rel="noopener noreferrer">
 							<div
-								class="duration-120 flex items-center justify-center gap-x-2 border border-zinc-300 px-3 py-1 transition-all hover:border-black group-hover:rounded-full"
+								class="duration-120 flex items-center justify-center gap-x-2 rounded-full border border-zinc-300 px-3 py-1 transition-all hover:border-black"
 							>
 								<Code2 size={16} class="text-zinc-700 hover:text-black" />
 								<span class="text-sm text-zinc-700 hover:text-black"> Source Code </span>
@@ -115,4 +115,4 @@
 			</div>
 		</div>
 	</div>
-</div>
+</div> 
